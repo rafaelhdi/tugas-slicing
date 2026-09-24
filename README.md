@@ -28,7 +28,7 @@ Website *Landing Page Portfolio* responsif yang dibangun menggunakan HTML, Plain
 ## 📸 Screenshot Tampilan
 
 ### Tampilan Desktop
-(Desktop-Landing-Page-Raffles.png)
+![Desktop](https://github.com/rafaelhdi/tugas-slicing/blob/main/Screenshot%20Landing%20Page%20Raffles/Desktop%20Landing%20Page%20Raffles.png)
 
 ### Tampilan Mobile
 (Mobile-Landing-Page-Raffles.jpeg)
