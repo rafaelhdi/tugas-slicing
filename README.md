@@ -37,4 +37,4 @@ Website *Landing Page Portfolio* responsif yang dibangun menggunakan HTML, Plain
 
 ## 🌐 Link Live Deployment
 Akses tampilan *live* website ini melalui tautan berikut:
-👉 ![Landing Page](https://landing-page-raffles.vercel.app/)
+👉 https://landing-page-raffles.vercel.app/
