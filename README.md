@@ -28,10 +28,10 @@ Website *Landing Page Portfolio* responsif yang dibangun menggunakan HTML, Plain
 ## 📸 Screenshot Tampilan
 
 ### Tampilan Desktop
-(Desktop Landing Page Raffles.png)
+(Desktop-Landing-Page-Raffles.png)
 
 ### Tampilan Mobile
-(Mobile Landing Page Raffles.jpeg)
+(Mobile-Landing-Page-Raffles.jpeg)
 
 ---
 
