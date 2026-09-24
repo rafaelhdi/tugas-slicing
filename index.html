@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Slicing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">RafflesPortofolio</div>
+        <nav class="nav-links" id="navLinks">
+            <a href="#hero">Beranda</a>
+            <a href="#projects">Proyek</a>
+            <a href="#interactive">Fitur Interaktif</a>
+        </nav>
+        <div class="nav-actions">
+            <button id="themeToggle" class="btn-theme">🌙 Mode Jahat</button>
+            <button id="menuToggle" class="btn-menu">☰</button>
+        </div>
+    </header>
+
+    <section id="hero" class="hero-section">
+        <div class="hero-content">
+            <h1>Selamat Datang di Website Raffles</h1>
+            <p>Halaman ini dibangun dengan HTML, plain CSS, dan JavaScript Manipulasi DOM.</p>
+            <a href="#interactive" class="btn-primary">Coba Fitur DOM</a>
+        </div>
+    </section>
+
+    <section id="projects" class="projects-section">
+        <h2>Daftar Proyek</h2>
+        <div class="project-grid">
+            <div class="card">
+                <h3>Slicing UI Dashboard</h3>
+                <p>Tampilan antarmuka responsif menggunakan Grid dan Flexbox CSS.</p>
+            </div>
+            <div class="card">
+                <h3>Aplikasi Manipulasi DOM</h3>
+                <p>Fitur interaktif menggunakan JavaScript murni tanpa pustaka tambahan.</p>
+            </div>
+            <div class="card">
+                <h3>Landing Page Produk</h3>
+                <p>Layout modern dan adaptif di berbagai ukuran layar perangkat.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="interactive" class="interactive-section">
+        <h2>Fitur Interaktif (DOM)</h2>
+        <p>Tambahkan catatan atau daftar tugas secara dinamis ke dalam halaman:</p>
+
+        <div class="input-box">
+            <input type="text" id="itemInput" placeholder="Tuliskan sesuatu...">
+            <button id="btnAdd" class="btn-add">Tambah</button>
+        </div>
+
+        <ul id="itemList" class="item-list"></ul>
+    </section>
+
+    <footer>
+        <p><strong>Tugas Slicing Website HTML/CSS/JS</strong></p>
+        <p>Nama: Rafael Ababil Ainur Hadi | NIM: 252410103027</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
