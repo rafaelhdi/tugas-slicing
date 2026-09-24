@@ -31,10 +31,10 @@ Website *Landing Page Portfolio* responsif yang dibangun menggunakan HTML, Plain
 ![Desktop](https://github.com/rafaelhdi/tugas-slicing/blob/main/Screenshot%20Landing%20Page%20Raffles/Desktop%20Landing%20Page%20Raffles.png)
 
 ### Tampilan Mobile
-(Mobile-Landing-Page-Raffles.jpeg)
+![Mobile](https://github.com/rafaelhdi/tugas-slicing/blob/main/Screenshot%20Landing%20Page%20Raffles/Mobile%20Landing%20Page%20Raffles.jpeg)
 
 ---
 
 ## 🌐 Link Live Deployment
 Akses tampilan *live* website ini melalui tautan berikut:
-👉 https://landing-page-raffles.vercel.app/
+👉 ![Landing Page](https://landing-page-raffles.vercel.app/)
